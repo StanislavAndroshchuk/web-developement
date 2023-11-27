@@ -12,7 +12,8 @@ JWT='secretkey'
 3.Have installed Docker Desktop (to run in docker container by /web-project/)
 4. Run in /web-project/ : docker compose up (in my docker i need to stop and run this command again to see normaly changes)
 5.Install flask server in some folder that will be runned (flask --app app run -p 8001)
-6.Have app.py in flaskProject with following code:
+6.Have app.py in flaskProject with following code below.
+7. Run (npm run) and that's it
 
 --------------------------------------------------------------------------------------------
 
